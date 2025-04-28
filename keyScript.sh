@@ -8,3 +8,4 @@ for i in $(seq 0 60); do
   zip $NODE.zip validatorKey.pem
   mv $NODE.zip $HOME/VALIDATOR_KEYS/
 done
+10
